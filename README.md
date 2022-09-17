@@ -23,3 +23,4 @@
 ### Lot Summary Table
 
 ![lot_summary](https://user-images.githubusercontent.com/101905587/190862976-495af449-d939-47c2-a554-15d8aafa3c91.png)
+
