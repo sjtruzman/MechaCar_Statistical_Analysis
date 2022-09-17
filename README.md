@@ -18,9 +18,10 @@
 
 #### Total Summary Table
 
-![total_summary](https://user-images.githubusercontent.com/101905587/190862910-e8960b46-0bf9-4596-b879-d93197cae547.png)
+![t_summary](https://user-images.githubusercontent.com/101905587/190863291-88aa167f-9c04-4f49-8f4b-2ea386c59aa2.png)
 
-### Lot Summary Table
+#### Lot Summary Table
 
-![lot_summary](https://user-images.githubusercontent.com/101905587/190862976-495af449-d939-47c2-a554-15d8aafa3c91.png)
+![lot_summary](https://user-images.githubusercontent.com/101905587/190863274-11bc6e50-b786-40c9-8849-1c1e4a7e675c.png)
 
+##### 
