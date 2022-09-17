@@ -24,4 +24,4 @@
 
 ![lot_summary](https://user-images.githubusercontent.com/101905587/190863274-11bc6e50-b786-40c9-8849-1c1e4a7e675c.png)
 
-##### 
+##### For the production lot population as a whole, the coil variance is 62.29 PSI, which is well below the 100 PSI variance requirement. This is because the variance of the third lot is approximately 170.2 PSI, exceeding the design specified by more than double the amount aloft. As a result, the manufacturing team should be working with Lot 1 and Lot 2 compared to Lot 3.
