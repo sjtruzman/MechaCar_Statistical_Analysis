@@ -10,7 +10,7 @@
 
 ![miles-per-gallon-linear](https://user-images.githubusercontent.com/101905587/190862438-79eb7e80-a46b-496c-ab65-9e2224f9ede0.png)
 
-##### Two variables resulted in a degree of non-random variance. Vehicle length and vehicle ground clearance are statistically likely to provide nonrandom variance values to the model. This means that the length and ground clearance of the vehicle has a significant impact on miles per gallon on the MechaCar prototype. In contrast, vehicle weight, spoiler angle and all-wheel drive (AWD) have p-Values which indicate a random deviation from the data set.
+##### Two variables resulted in a degree of non-random variance. Vehicle length and vehicle ground clearance are statistically likely to provide nonrandom variance values to the model. This means that the length and ground clearance of the vehicle has a significant impact on miles per gallon on the MechaCar prototype. In contrast, vehicle weight, spoiler angle and all-wheel drive have p-Values which indicate a random deviation from the data set.
 
 ##### This linear model has a r-squared value of 0.7149, which means that over 100 instances, this model would predict roughly the MechaCar mpg correctly 71 times.
 
